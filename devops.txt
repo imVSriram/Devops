@@ -1,0 +1,11 @@
+
+- gitbash - practice regular work using gitbash
+
+- practice in vim editor
+
+- CI-CD understanding
+
+- environments
+
+= tech stack - frondend backend db
+
